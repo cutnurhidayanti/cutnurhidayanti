@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/cut-nurhidayanti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cut-nurhidayanti/" height="30" width="40" /></a> <a href="https://www.instagram.com/cutnurhidayanti__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/cutnurhidayanti__" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/cut-nurhidayanti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cut-nurhidayanti/" height="30" width="40" /></a> <a href="https://www.instagram.com/cutnurhidayanti__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/cutnurhidayanti__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,4 +29,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cutnurhidayanti&show_icons=true&locale=en" alt="cutnurhidayanti" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cutnurhidayanti&" alt="cutnurhidayanti" /></p>
+<p><img align="center" src="https://camo.githubusercontent.com/e225b90c0db0f75a378a98fdfb416e67e7a85fb8feee0c99c5a8bcc6513fb218/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6375746e75726869646179616e746926" alt="cutnurhidayanti" /></p>
